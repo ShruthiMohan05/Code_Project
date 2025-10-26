@@ -1,4 +1,4 @@
-# Code_Project
+# CUISELLE
 Restaurant Menu Website 🍴
 Welcome to the Restaurant Menu Website repository! This project is a user-friendly and responsive web application designed to showcase a restaurant's menu, featuring categories like appetizers, main courses, beverages, and desserts.
 
